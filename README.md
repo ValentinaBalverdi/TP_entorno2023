@@ -12,6 +12,7 @@ Deberiamos subir el PDF del enunciado?
 ## Autores
 
 - [Giuliano Carlachiani](https://github.com/giuliano2505/)
+- [Valentina Balverdi](https://github.com/ValentinaBalverdi)
 
 
 ## Instrucciones
