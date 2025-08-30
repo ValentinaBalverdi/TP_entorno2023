@@ -4,8 +4,6 @@
 Proyecto final para la materia Entorno de programación, de la Tecnicatura Universitaria en Inteligencia Artificial. El proyecto consiste en crear un contenedor que al ejecutarlo presente un menú de opciones para procesar un grupo de imagenes.
 
 ## Enunciado
-Deberiamos subir el PDF del enunciado?
-
 [Enunciado TP](https://link)
 
 
